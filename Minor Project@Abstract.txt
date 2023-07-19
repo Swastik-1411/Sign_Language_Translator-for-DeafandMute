@@ -1,0 +1,18 @@
+In our society, there are individuals with disabilities who face challenges in communicating with others.
+Despite advancements in technology, not enough has been done to improve the lives of these individuals. 
+Roughly nine billion people worldwide are deaf and mute, and communicating with others can be a daunting task. 
+This is especially true when attempting to convey important information during emergencies.
+
+The human hand has long been a popular tool for conveying information in situations where speech is not an option. 
+However, it is difficult for individuals who are not trained in sign language to understand these gestures. 
+As a solution, we propose the development of a Voice Conversion System with Hand Gesture Recognition and Translation.
+
+The goal of this project is to create a system that can convert sign language into audible speech in any desired 
+language, as well as convert speech into understandable sign language for the deaf and mute. To accomplish this, 
+we will use a convolutional neural network to create a model that can recognize and interpret different hand 
+gestures.
+
+We have developed an app that utilizes this model, enabling individuals who are deaf and mute to communicate their
+information through sign language. This app will convert the signs into human-understandable language and provide 
+speech output. Our hope is that this technology will improve the lives of those with disabilities and allow them 
+to communicate more effectively with the world around them.
